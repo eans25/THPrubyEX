@@ -20,4 +20,4 @@ end
 7.times do 
 	puts "Enfin le week End"
 end
-puts "...C'est déjà fini"
+puts "...C'est déjà fini"	
