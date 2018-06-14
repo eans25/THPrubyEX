@@ -10,4 +10,4 @@ else
 number.times do 
 	puts "Salut, ça farte?"
 	end
-end	
+end
