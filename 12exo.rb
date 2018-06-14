@@ -15,7 +15,7 @@ else
 	loop do
   		puts i
   		i = i + 1
-  		break if i == 20
+  		break if i == 21
 	end
 	puts "Bon, je laisse tomber, vous êtes trop nombreux!!!"
 end
