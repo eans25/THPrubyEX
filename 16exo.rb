@@ -24,14 +24,8 @@ b = 0
 
 
 loop do 
-	print "il y a "
-	print age
+	puts "il y a #{age} ans, tu avais #{b} ans!"
 	age = age - 1
-	print " ans"
-	print ", tu avais "
-	print  b
 	b = b + 1
-	puts " ans!"
-	break if age ==0
-	
+	break if age == 0
 end
